@@ -1,2 +1,2 @@
-print("hello")
-print("halo ke dua")
+print("hssllo")
+print("halssdua")
